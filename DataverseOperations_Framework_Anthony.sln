@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AD_Dataverse_Framework", "AD_Dataverse_Framework\AD_Dataverse_Framework.csproj", "{58F066CC-73AF-48A4-A7C4-8BEE4C2EB792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataverseOperations_Console", "DataverseOperations_Console\DataverseOperations_Console.csproj", "{F9B729B7-22D4-4186-ABCF-1353DEE113FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F066CC-73AF-48A4-A7C4-8BEE4C2EB792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F066CC-73AF-48A4-A7C4-8BEE4C2EB792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F066CC-73AF-48A4-A7C4-8BEE4C2EB792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F066CC-73AF-48A4-A7C4-8BEE4C2EB792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B729B7-22D4-4186-ABCF-1353DEE113FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B729B7-22D4-4186-ABCF-1353DEE113FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B729B7-22D4-4186-ABCF-1353DEE113FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B729B7-22D4-4186-ABCF-1353DEE113FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258E600C-47CD-495C-B124-52BCC2AECC04}
+	EndGlobalSection
+EndGlobal

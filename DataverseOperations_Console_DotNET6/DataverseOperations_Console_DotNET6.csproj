@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.PowerPlatform.Dataverse.Client" Version="1.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AD_Dataverse_Framework_DotNET6">
+      <HintPath>..\AD_Dataverse_Framework_DotNET6\bin\Debug\net6.0\AD_Dataverse_Framework_DotNET6.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
